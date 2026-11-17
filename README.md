@@ -50,7 +50,7 @@ This project automates that analysis by:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/praphulchandra-nitdgp/ATS-Resume-Scanner.git
+git clone https://github.com/Akshara2006/ATS-Resume-Scanner.git
 cd ATS-Resume-Scanner
 ```
 
@@ -113,8 +113,7 @@ MIT
 
 ---
 
-## 👤 Author
-Made with ❤️ by [Ganapathri Praphul Chandra](https://www.linkedin.com/in/praphul-chandra-ganapathri-018a692a8/)
+
 
 ## Setup 
 
