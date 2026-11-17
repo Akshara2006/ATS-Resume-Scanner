@@ -1,0 +1,12 @@
+# Core AI SDK
+google-genai>=2.20.0
+
+# PDF → image conversion + text extraction (PyMuPDF bundles its own engine – no system poppler needed)
+pymupdf>=1.28.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Web UI & Visualization
+streamlit>=1.46.0
+plotly>=6.0.0
