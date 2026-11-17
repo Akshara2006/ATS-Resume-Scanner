@@ -1,6 +1,6 @@
-# 📝 ATS Resume Scanner using Gemini 1.5 Flash
+# 📝 ATS Resume Scanner using Gemini 3.8 Flash
 
-An AI‑powered Applicant Tracking System (ATS) Resume Scanner that evaluates a candidate’s resume against a job description using **Gemini 1.5 Flash**. The tool simulates how a real ATS or recruiter analyses resumes, offering feedback, skill‑gap suggestions, and a match‑percentage score.
+An AI‑powered Applicant Tracking System (ATS) Resume Scanner that evaluates a candidate’s resume against a job description using **Gemini 3.8 Flash**. The tool simulates how a real ATS or recruiter analyses resumes, offering feedback, skill‑gap suggestions, and a match‑percentage score.
 
 ---
 
@@ -40,7 +40,7 @@ This project automates that analysis by:
 ## ⚙️ Tech Stack
 
 - **Frontend**  : Streamlit  
-- **LLM API**  : Google Gemini 1.5 Flash (`google-generativeai`)  
+- **LLM API**  : Google Gemini 3.8 Flash (`google-generativeai`)  
 - **Image Conversion**  : pdf2image + Pillow (Poppler backend)  
 - **Env Management**  : python‑dotenv  
 
